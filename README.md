@@ -1,3 +1,3 @@
 - Leon Barwe
 - Germany, Bavaria
-- Developer at PSI Software SE
+- Trainee at PSI Software SE
