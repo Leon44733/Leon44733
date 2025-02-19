@@ -27,7 +27,7 @@
   
 - ⚡ Trainee at PSI Software SE
 
-- 🌱 Improving C++ and Cmake skils
+- 🌱 Improving C++ and Cmake skills
 
 - 🎯 Striving to build scalable, clean, and modular client based applications and games
 
