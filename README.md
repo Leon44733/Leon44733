@@ -13,7 +13,7 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=Leon44733&style=flat-square&color=blue" alt=""/>
+  <!--<img src="https://komarev.com/ghpvc/?username=Leon44733&style=flat-square&color=blue" alt=""/> -->
   
   <h1>
     🍀 Don't dream your life, but live your dream 🚀
